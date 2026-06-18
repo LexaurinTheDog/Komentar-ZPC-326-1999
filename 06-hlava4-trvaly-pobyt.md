@@ -142,6 +142,11 @@ Odstavec 3 byl do zákona vložen v souvislosti se zavedením sankčního zákon
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 2672/2018](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/7E70973E95F3B051C1258419002358BD?openDocument) — kat. A, 27. 3. 2019
+  > „Cizinci vzniká podle § 68 odst. 1 zákona č. 326/1999 Sb., o pobytu cizinců na území České republiky a o změně některých zákonů, při splnění všech zákonem stanovených podmínek právní nárok na vydání rozhodnutí o udělení trvalého pobytu na území České republiky"
+
 #### Základní podmínka — 5 let nepřetržitého pobytu (odst. 1)
 
 Ustanovení § 68 tvoří **obecný základ** pro vydání povolení k trvalému pobytu. Podmínka 5 let nepřetržitého pobytu ke dni podání žádosti (nikoliv ke dni rozhodnutí) vychází z čl. 4 odst. 1 směrnice 2003/109/ES. Zákon počítá s pobytnou délkou, nikoliv s počtem vstupů nebo přítomností v konkrétní době. Klíčový je výpočet doby za pomocí odst. 2 a 3.
@@ -784,10 +789,4 @@ Odst. 9 rozšiřuje na tyto cizince použití §§ 117d a 117e (oznamovací povi
 #### Přechod do standardního pobytového režimu (odst. 10)
 
 Cizinec svěřený do náhradní výchovy před 15. rokem se po dosažení tohoto věku považuje za cizince pobývajícího na základě **povolení k trvalému pobytu** (§ 65 odst. 1 písm. a)). Tím je zajištěna právní kontinuita: trvání pobytu a navazující práva a povinnosti se odvozují od standardního titulu trvalého pobytu.
-
-
-
-
-
-
 

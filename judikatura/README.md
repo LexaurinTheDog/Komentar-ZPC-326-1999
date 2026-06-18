@@ -1,0 +1,11 @@
+# Judikatura citovaná v komentáři (ZPC-326-1999)
+
+Tato složka obsahuje všechna rozhodnutí citovaná v komentáři — 1 rozhodnutí, 1 citací u 1 z 215 komentovaných ustanovení.
+
+**Metoda:** Judikatura pochází výhradně z místních zdrojů (lokální kopie rozhodnutí NS, ÚS a NSS). U rozhodnutí Nejvyššího soudu jsou uvedeny kurátorské právní věty (kategorie A/B — publikováno ve Sbírce soudních rozhodnutí a stanovisek). U rozhodnutí ÚS a NSS jsou citovány doslovné pasáže z odůvodnění. Platí zásada: raději neuvést nic, než uvést nepřiléhavé nebo nejisté — ustanovení bez vhodné judikatury v místních zdrojích proto žádnou citaci nemají.
+
+| Soud | Sp. zn. | Datum | Kat./typ | Citováno u | Soubor |
+|---|---|---|---|---|---|
+| NS | [30 Cdo 2672/2018](NS-30-Cdo-2672-2018.md) | 27. 3. 2019 | A | § 68 | [NS-30-Cdo-2672-2018.md](NS-30-Cdo-2672-2018.md) |
+
+**Ustanovení bez judikatury z místních zdrojů (214):** § 1, § 2, § 5, § 9, § 10, § 12, § 13, § 14, § 15, § 15a, § 15b, § 16, § 17, § 17b, § 18, § 19, § 20, § 21, § 30, § 31, § 31a, § 32, § 33, § 34, § 35, § 35a, § 36, § 37, § 37a, § 42g, § 42h, § 42i, § 42j, § 42k, § 42l, § 42m, § 42n, § 42o, § 42p, § 43, § 44, § 44a, § 44b, § 44c, § 45, § 46, § 46a, § 46b, § 46c, § 46d, § 46e, § 46f, § 46g, § 47, § 48, § 48a, § 48b, § 49, § 49a, § 49b, § 49c, § 49a, § 49b, § 49c, § 50, § 50a, § 50b, § 51, § 52, § 53, § 54, § 55, § 56, § 57, § 58, § 60, § 62, § 63, § 64, § 65, § 66, § 69, § 70, § 71, § 72, § 74, § 75, § 76, § 77, § 83, § 84, § 85, § 87, § 87a, § 87b, § 87c, § 87d, § 87e, § 87f, § 87g, § 87h, § 87i, § 87j, § 87k, § 87l, § 87m, § 87n, § 87o, § 87p, § 87r, § 87s, § 87t, § 87u, § 87v, § 87w, § 87x, § 87y, § 87z, § 87aa, § 88, § 89, § 90, § 91, § 92, § 93, § 95, § 96, § 97, § 98, § 98a, § 99, § 100, § 101, § 102, § 103, § 104, § 105, § 106, § 107, § 108, § 109, § 111, § 113, § 114, § 115, § 115b, § 116, § 117, § 117a, § 117b, § 117c, § 117d, § 117e, § 117f, § 117g, § 118, § 119, § 119a, § 120, § 120a, § 121, § 122, § 123, § 123a, § 123b, § 123c, § 124, § 124a, § 124b, § 125, § 126, § 126a, § 126b, § 127, § 128, § 129, § 129a, § 130, § 131, § 132, § 132a, § 133, § 134, § 135, § 136, § 137, § 138, § 139, § 140, § 141, § 142, § 143, § 144, § 145, § 146, § 147, § 148, § 149, § 150, § 151, § 152, § 153, § 154, § 155, § 155a, § 155b, § 156, § 157, § 157a, § 158, § 158a, § 158b, § 159, § 160
