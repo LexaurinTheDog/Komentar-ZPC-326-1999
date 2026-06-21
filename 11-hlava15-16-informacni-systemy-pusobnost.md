@@ -290,6 +290,43 @@ Možnost sdružovat údaje s jinými informačními systémy veřejné správy (
 
 Odstavec 16 zakládá zvláštní datový tok z ISC do systému datových schránek spravovaného ministerstvem — v rozsahu potřebném pro zřizování, správu a provoz datových schránek cizinců. Jde o průsečík cizineckého práva a zákona č. 300/2008 Sb., o elektronických úkonech.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cizinec X, držitel povolení k trvalému pobytu, zjistí na policii, že je v informačním systému cizinců (ISC) veden záznam o jeho vyhoštění z roku 2014, ačkoli toto rozhodnutí bylo později zrušeno správním soudem. Současně se dozví, že z ISC byly jeho údaje (včetně záznamu o vyhoštění) opakovaně poskytovány státním orgánům. X požaduje opravu a chce vědět, komu byla data poskytnuta; policie mu však u některých výdejů odepře sdělit příjemce s odkazem na blokaci podle odst. 12. Účastníci: X (subjekt údajů), policie (správce ISC dle odst. 1), žádající orgán. Důkazy: rozsudek soudu rušící vyhoštění, výpis z ISC, záznamy o poskytnutí údajů (odst. 10).
+
+**2. Právní otázka.** Má cizinec právo na opravu nesprávného údaje vedeného v ISC a na sdělení, komu byly jeho údaje poskytnuty, a v jakém rozsahu může policie tomuto právu bránit blokací záznamu podle § 158 odst. 12?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 158 — ISC jako centrální evidence; odst. 1 (rozsah dat), odst. 10 (záznam o výdeji), odst. 12–13 (blokace záznamu o výdeji), odst. 15 (kontrola správnosti údajů z jiných registrů).
+- *Související ustanovení téhož zákona:* § 159 (poskytování údajů, právo cizince na vlastní data — odst. 2); § 160 (lhůty uchování — záznam o vyhoštění nelze vést věčně).
+- *Související předpisy:* GDPR (nařízení 2016/679) čl. 16 (oprava), čl. 15 (přístup), čl. 23 (omezení práv z důvodu veřejné bezpečnosti); směrnice 2016/680 (zpracování pro účely vymáhání práva); zákon č. 110/2019 Sb., o zpracování osobních údajů.
+- *Judikatura:* nosný závěr ESLP (věc S. a Marper proti Spojenému království) — uchovávání biometrických a osobních dat osob bez časového omezení a bez možnosti výmazu je nepřiměřeným zásahem do čl. 8 EÚLP; obecně: údaj překonaný zrušujícím soudním rozhodnutím je nesprávný a podléhá opravě.
+
+**4. Subsumpce.** Záznam o vyhoštění, jež bylo soudem zrušeno, je nesprávným údajem — povinnost správnosti plyne z odst. 15 i z GDPR. Policie je proto povinna jej opravit, resp. doplnit poznámku o zrušení. Právo na sdělení příjemců (odst. 10) je dáno; blokace dle odst. 12 je však výjimkou pro taxativně vymezené účely (bezpečnost státu, obrana, trestní řízení atd.) a jen tehdy, učinil-li příjemce písemné prohlášení dle odst. 12 a 13. Není-li takové prohlášení doloženo, blokace neobstojí.
+
+**5. Řešení.** X dosáhne opravy záznamu (uvedení, že vyhoštění bylo zrušeno). U výdejů bez prohlášení dle odst. 12 musí policie sdělit příjemce; u výdejů s řádnou blokací se sdělení omezí — přístup zůstává jen orgánům činným v trestním řízení nebo dozorovému úřadu (ÚOOÚ). Procesně: žádost o opravu a o informace ke správci, při neúspěchu stížnost k ÚOOÚ, popř. žaloba. Riziko: rozsah blokace je obtížně přezkoumatelný subjektem údajů.
+
+**6. Varianty.** (a) Pokud by vyhoštění nebylo zrušeno, ale jen uplynula doba zákazu vstupu, údaj by zůstal správným až do uplynutí retenční lhůty dle § 160. (b) Šlo-li by o žadatele o mezinárodní ochranu (odst. 11), nesměly by být jeho údaje vůbec poskytnuty zahraničním třetím osobám ani cizím státním orgánům.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Policie tvrdí, že u všech výdejů platí blokace „z bezpečnostních důvodů". Neutralizace: blokace dle odst. 12 je vázána na konkrétní taxativní účel a na písemné prohlášení příjemce (odst. 12 a 13); paušální blokace bez doložení prohlášení je v rozporu se zákonem i čl. 23 GDPR (test nezbytnosti a proporcionality).
+- *Protiargument:* Záznam o zrušeném vyhoštění „má historickou hodnotu" a nelze jej měnit. Neutralizace: požadavek nikoli na výmaz, ale na zaznamenání aktuálního právního stavu (zrušení soudem); povinnost správnosti údajů plyne z odst. 15.
+- *Slabé místo:* Subjekt údajů nemá přímý přístup k logice nastavení blokace ani k úplnému seznamu příjemců — kontrola je fakticky odkázána na dozor ÚOOÚ; argumentaci je vhodné opřít o dozorovou pravomoc a o břemeno správce prokázat zákonný účel.
+
+#### H. Praktický závěr
+
+ISC je nejširší evidence cizinecké agendy se silně asymetrickým postavením správce (policie) a subjektu údajů. V praxi je třeba odlišovat (i) právo na opravu/správnost, jež blokací omezit nelze, a (ii) právo na informaci o příjemcích, jež blokací dle odst. 12 omezit lze, ale jen za přísných podmínek.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda namítaný údaj odpovídá aktuálnímu právnímu stavu (pravomocná/ zrušená rozhodnutí).
+- [ ] U odepření sdělení příjemců vyžádat doložení prohlášení dle odst. 12 a 13 a jeho účelu.
+- [ ] Posoudit, zda nejde o žadatele o mezinárodní ochranu (odst. 11) — zákaz předání cizině.
+- [ ] Zkontrolovat dodržení retenčních lhůt dle § 160 (zda údaj neměl být již zlikvidován).
+- [ ] Při sporu využít dozor ÚOOÚ a soudní ochranu.
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISC, záznamy o poskytnutí údajů (odst. 10), pravomocná rozhodnutí a soudní rozsudky k danému cizinci, prohlášení příjemců dle odst. 12, korespondence se správcem.
+
 ---
 
 ### § 158a — Informační systémy Ministerstva zahraničních věcí a ministerstva
@@ -373,6 +410,42 @@ Zatímco § 158 svěřuje správu ISC policii, § 158a zakládá paralelní sous
 
 Propojení s centrální evidencí volných pracovních míst Ministerstva práce a sociálních věcí plní praktickou funkci: při vydávání zaměstnanecké karty a modré karty musí ministerstvo ověřit, že příslušné pracovní místo je v evidenci evidováno. Odstavec 9 zakotvuje zásadu **proporcionality** — využít jen údaje nezbytně nutné pro splnění konkrétního úkolu.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cizinka Y podala u ministerstva žádost o vydání průkazu o povolení k pobytu; v rámci řízení byly pořízeny její biometrické údaje (obraz obličeje, otisky prstů) a digitální podpis a vloženy do provozního informačního systému dle odst. 4. Y se však k převzetí hotového průkazu nedostaví. Po 70 dnech od dodání průkazu ministerstvu Y zjistí, že její biometrická data jsou stále vedena, a požaduje jejich okamžitý výmaz s tím, že průkaz si již nepřeje. Účastníci: Y (žadatelka), ministerstvo (správce provozního systému dle odst. 4). Důkazy: protokol o pořízení biometrie (§ 117a odst. 4), doklad o dodání průkazu ministerstvu, evidence o (ne)převzetí.
+
+**2. Právní otázka.** V jakém okamžiku a na jakém právním základě je ministerstvo povinno zlikvidovat biometrické údaje vedené v provozním informačním systému dle § 158a odst. 4, nepřevezme-li si cizinec vyrobený průkaz?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 158a odst. 4 (provozní systém pro výrobu pobytových průkazů, vedení biometrie a podpisu), odst. 5 (likvidace po převzetí, s výjimkou biometrie předané do ISC), odst. 6 (likvidace po 60 dnech od dodání průkazu při nepřevzetí).
+- *Související ustanovení téhož zákona:* § 158 (ISC — kam se biometrie po převzetí předává); § 160 odst. 6 (samostatné lhůty pro biometrii v ISC, 90 dnů); § 117a odst. 4 (protokol).
+- *Související předpisy:* GDPR čl. 9 (biometrie jako zvláštní kategorie údajů), čl. 5 odst. 1 písm. e) (omezení doby uložení); nařízení EU o jednotném vzoru povolení k pobytu a standardech biometrie.
+- *Judikatura:* nosný závěr ESLP (S. a Marper) — uchovávání biometrie musí být časově omezené a proporcionální; obecně: nesplnění zákonné likvidační lhůty zakládá protiprávní zpracování.
+
+**4. Subsumpce.** Y si průkaz nepřevzala — neuplatní se odst. 5 (jenž předpokládá převzetí a předání biometrie do ISC), nýbrž odst. 6: data včetně biometrických se likvidují po uplynutí 60 dnů ode dne dodání vyrobeného průkazu ministerstvu. V den žádosti (70. den po dodání) již lhůta uplynula — data měla být zlikvidována; pokud vedena jsou, jde o protiprávní stav.
+
+**5. Řešení.** Ministerstvo je povinno biometrii i ostatní údaje z provozního systému zlikvidovat nejpozději 60. dnem po dodání průkazu; po tomto dni Y svědčí nárok na nápravu (výmaz). Dřívější výmaz „na žádost" zákon výslovně nepředvídá — lhůta 60 dnů je nastavena objektivně. Procesně: podnět správci k doložení likvidace, při nečinnosti stížnost k ÚOOÚ. Riziko: prokázání skutečného data dodání průkazu ministerstvu.
+
+**6. Varianty.** (a) Kdyby si Y průkaz převzala, biometrie by se z provozního systému předala do ISC (odst. 5) a dále by podléhala lhůtě § 160 odst. 6. (b) Šlo-li by o cizinecký pas (odst. 3), uplatnila by se zvláštní lhůta 90 dnů od dodání pasu dle § 160 odst. 6, nikoli 60denní lhůta odst. 6 zde.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Ministerstvo namítne, že data drží „pro případ pozdějšího převzetí". Neutralizace: odst. 6 stanoví pevnou 60denní lhůtu od dodání průkazu jako maximální mez; její překročení nelze ospravedlnit provozní pohodlností a odporuje čl. 5 odst. 1 písm. e) GDPR.
+- *Protiargument:* Biometrie patří do bezpečnostně citlivé oblasti, proto ji lze držet déle. Neutralizace: jde o provozní (výrobní) systém s úzce vymezeným účelem, nikoli o ISC; zákon zde sám zvolil krátké lhůty, čímž vyloučil extenzivní výklad.
+- *Slabé místo:* Žadatel obvykle nezná přesné datum dodání průkazu ministerstvu, od něhož lhůta běží — důkazní břemeno o (ne)likvidaci fakticky leží na správci; argumentaci je vhodné vést přes povinnost správce doložit soulad zpracování.
+
+#### H. Praktický závěr
+
+§ 158a vytváří paralelní soustavu systémů (MZV — vízová/konzulární agenda; ministerstvo — ochranný pobyt, cizinecké pasy, výroba pobytových průkazů). Klíčové jsou krátké retenční lhůty provozního systému (odst. 5 a 6): biometrie a podpis nemají v této fázi přežít výrobní účel.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Identifikovat, který ze systémů § 158a se na věc vztahuje (MZV / ochranný pobyt / pas / provozní výrobní).
+- [ ] U provozního systému zjistit datum dodání průkazu ministerstvu a běh lhůt dle odst. 5/6.
+- [ ] Ověřit, zda po převzetí byla biometrie řádně předána do ISC (odst. 5) a dále podléhá § 160 odst. 6.
+- [ ] U datového toku z MPSV (odst. 8–9) hlídat zásadu nezbytnosti — jen údaje nutné ke konkrétnímu úkolu.
+
+**Typicky rozhodné důkazy / podklady:** protokol o pořízení biometrie (§ 117a odst. 4), doklad o dodání vyrobeného průkazu ministerstvu, evidence převzetí/nepřevzetí, doklad o likvidaci dat.
+
 ---
 
 ### § 158b — Oznamovací povinnost matričního úřadu
@@ -433,6 +506,42 @@ Ustanovení § 158b ukládá **matričním úřadům** (obecní úřady pověře
 
 Odstavec 3 řeší **transliteraci jmen**: za „poskytovaná jména a příjmení" se považují jak jméno zapsané v matričním dokladu, tak jméno v latinské transkripci z cestovního dokladu, byl-li matričnímu úřadu předložen. To odráží praxi, kdy cizinci z nelatinkových jazykových prostředí mívají v matriční knize zapsáno jméno v české transkripci, zatímco v cestovním dokladu je latinská forma.
 
+#### F. Kazuistika
+
+**1. Modelová situace.** Cizinec Z s povoleným trvalým pobytem uzavřel manželství před matričním úřadem v Brně; jeho jméno je v cestovním pase zapsáno latinkou ve tvaru odlišném od transkripce v matriční knize. Matriční úřad oznámil policii pro účely ISC údaj o sňatku, avšak uvedl pouze jméno z matriční knihy, nikoli latinskou podobu z předloženého cestovního dokladu. V důsledku toho ISC vede Z pod jménem, které neodpovídá jeho cestovnímu dokladu, což později způsobí komplikace při kontrole na hranici. Účastníci: Z, matriční úřad (oznamovatel dle odst. 1), policie (správce ISC). Důkazy: oddací list, cestovní doklad předložený matrice, výpis z ISC.
+
+**2. Právní otázka.** Byl matriční úřad povinen oznámit policii pro účely ISC vedle jména z matriční knihy i jméno v latinské transkripci z předloženého cestovního dokladu, a jaký je rozsah a forma oznamovací povinnosti dle § 158b?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 158b — oznamovací povinnost matričního úřadu; odst. 2 (taxativní rozsah údajů o matričních událostech), odst. 3 (transliterace: jména dle matričního dokladu i latinkou dle cestovního dokladu, byl-li předložen).
+- *Související ustanovení téhož zákona:* § 158 odst. 1 a 8 (kategorie statusových údajů v ISC, jež se z matrik aktualizují); § 158 odst. 17 (vymezení jména latinkou); § 158 odst. 1 písm. e) bod 6 (utajení anonymního porodu, totožně chráněno i zde).
+- *Související předpisy:* zákon č. 301/2000 Sb., o matrikách, jménu a příjmení; GDPR čl. 5 odst. 1 písm. d) (přesnost údajů).
+- *Judikatura:* obecný závěr — nesprávně či neúplně přenesený statusový údaj zakládá nepřesnost evidence a povinnost opravy; soudy akcentují soulad zápisu jména s cestovním dokladem pro účely identifikace na hranici.
+
+**4. Subsumpce.** Z předložil matrice cestovní doklad; tím se aktivovala druhá alternativa odst. 3 — „poskytovanými údaji se rozumí jméno dle matričního dokladu a rovněž jméno latinkou z cestovního dokladu". Oznámení jen jedné z forem je neúplným splněním oznamovací povinnosti. Vznikla nepřesnost ISC, kterou je nutno napravit.
+
+**5. Řešení.** Matriční úřad měl oznámit obě podoby jména; policie po zjištění rozporu doplní v ISC latinskou transkripci dle cestovního dokladu. Z se může domáhat opravy údaje v ISC (cestou § 159 odst. 2 a GDPR). Procesně: podnět matričnímu úřadu a policii, doložení cestovního dokladu. Riziko: prokázání, že cestovní doklad byl matrice skutečně předložen (jinak se uplatní jen jméno z matriční knihy).
+
+**6. Varianty.** (a) Pokud by cestovní doklad matrice předložen nebyl, oznamuje se pouze jméno z matriční knihy a postup úřadu by byl správný. (b) Šlo-li by o osvojence narozeného ženě s trvalým pobytem, jež požádala o utajení v souvislosti s porodem, údaje o rodičích dle odst. 2 písm. l) bodu 6 by se neoznamovaly (ochrana anonymního porodu).
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Matriční úřad namítne, že oznamuje výhradně to, co je zapsáno v matriční knize. Neutralizace: odst. 3 výslovně zahrnuje i latinskou podobu z cestovního dokladu, byl-li předložen — povinnost tedy přesahuje pouhý obsah matriční knihy.
+- *Protiargument:* Nepřesnost má napravit cizinec sám u policie, nikoli matrika. Neutralizace: prvotní zdroj chyby je neúplné oznámení dle § 158b; odpovědnost za úplnost oznámení nese oznamovatel, opravu v ISC pak provede správce.
+- *Slabé místo:* Spornou skutečností bývá samo předložení cestovního dokladu matrice — bez záznamu o předložení nelze druhou alternativu odst. 3 prokázat; doporučuje se vyžádat protokol/poznámku matriky.
+
+#### H. Praktický závěr
+
+§ 158b zajišťuje automatický přísun aktuálních statusových dat (sňatek, partnerství, rozvod, osvojení, úmrtí) z matrik do ISC bez nutnosti součinnosti cizince. Kritickými body jsou taxativní rozsah (odst. 2), správná transliterace jmen (odst. 3) a ochrana anonymního porodu.
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Ověřit, zda oznámení dle § 158b odpovídá taxativnímu rozsahu odst. 2.
+- [ ] Zjistit, zda byl matrice předložen cestovní doklad → povinnost oznámit i latinskou podobu jména (odst. 3).
+- [ ] U osvojení prověřit režim utajení anonymního porodu (odst. 2 písm. l bod 6).
+- [ ] Při nepřesnosti v ISC iniciovat opravu u správce (policie) s odkazem na zdrojové matriční oznámení.
+
+**Typicky rozhodné důkazy / podklady:** oddací/úmrtní list a další matriční doklady, cestovní doklad cizince a doklad o jeho předložení matrice, výpis z ISC, oznámení matričního úřadu policii.
+
 ---
 
 ### § 159 — Poskytování údajů z informačních systémů
@@ -486,6 +595,43 @@ Zákon rozlišuje několik kanálů mezinárodního přenosu:
 - **Modrá karta a vnitropodnikoví zaměstnanci** (odst. 11–12): notifikace při pohybu těchto kategorií pracovníků mezi členskými státy, vycházející z rámce směrnice 2009/50/ES (modrá karta) a směrnice 2014/66/EU (ICT).
 - **Ochranný pobyt** (odst. 9): ministerstvo neprodleně předá policii data o zamítnutí nebo zrušení povolení za účelem ochrany, aby bylo možno zahájit výjezdní řízení.
 - **Vlastník nemovitosti** (odst. 10): zvláštní informační právo vlastníka nebo oprávněného uživatele nemovitosti, v níž je cizinec hlášen — zájem na znalosti, kdo je hlášen na adrese nemovitosti, kterou vlastní nebo užívá.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Obecní úřad jako orgán sociálně-právní ochrany dětí požádá policii o poskytnutí údajů z ISC o cizinci A v souvislosti s řízením o péči o nezletilé. Vedle základní obálky (jméno, datum narození, státní občanství, místo pobytu) požaduje rovněž kompletní přehled správních vyhoštění, přestupků a záznamů o překročení hranic A za posledních deset let. Policie zvažuje, zda smí tento rozšířený rozsah poskytnout. Současně zahraniční zastupitelský úřad domáhá vydání údajů o A s tím, že A v minulosti žádal v ČR o mezinárodní ochranu. Účastníci: obecní úřad (žadatel — státní orgán), policie (správce ISC), zastupitelský úřad cizího státu. Důkazy: žádost úřadu s vymezením úkolu, podklad o předchozí žádosti A o azyl.
+
+**2. Právní otázka.** V jakém rozsahu lze státnímu orgánu poskytnout údaje z ISC nad rámec základní obálky dle § 159 odst. 1 a brání poskytnutí dat zahraničnímu orgánu skutečnost, že cizinec dříve žádal o mezinárodní ochranu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 159 — poskytování údajů; odst. 1 (základní obálka 7 kategorií + podmíněné rozšíření při nezbytnosti a nemožnosti získat jinak), odst. 3 (poskytování státním orgánům, nepřetržitý dálkový přístup zpravodajských služeb a GIBS), odst. 4–12 (mezinárodní předávání); ve spojení s § 158 odst. 11.
+- *Související ustanovení téhož zákona:* § 158 odst. 8 (rozsah poskytovaných polí), odst. 11 (zákaz předání dat žadatelů o azyl cizině); § 160 (lhůty uchování — limit dostupnosti starších záznamů).
+- *Související předpisy:* GDPR čl. 5 odst. 1 písm. b) a c) (omezení účelu, minimalizace); směrnice 2016/680; readmisní dohody EU; směrnice 2003/109/ES, 2009/50/ES, 2014/66/EU (notifikace mezi členskými státy).
+- *Judikatura:* obecný závěr — poskytnutí osobních údajů nad rámec nezbytný pro konkrétní zákonný úkol je nepřípustné; v oblasti azylu platí informační rozměr zásady non-refoulement (zákaz prozrazení údajů zemi původu).
+
+**4. Subsumpce.** Základní obálku (odst. 1 věta první) lze poskytnout vždy, plní-li úřad zákonný úkol. Rozšířený rozsah (vyhoštění, přestupky, pohyb přes hranice) je přípustný jen kumulativně: je-li podmínkou splnění úkolu a nelze-li jej získat jinak (odst. 1 věta druhá). Pro zahraniční orgán je rozhodný odst. 11 § 158: žádal-li A o mezinárodní ochranu, jeho údaje se zahraničním třetím osobám ani cizím státním orgánům neposkytují.
+
+**5. Řešení.** Policie poskytne obecnímu úřadu základní obálku; rozšířený rozsah jen v míře, již úřad odůvodní nezbytností pro konkrétní řízení a nemožností opatřit jinak — paušální „přehled za 10 let" je nadbytečný. Zahraničnímu zastupitelskému úřadu se data A neposkytnou (odst. 11). Procesně: žadatel musí v žádosti vymezit úkol a nezbytnost; správce posuzuje proporcionalitu. Riziko: nadměrné vyhovění žádosti zakládá protiprávní zpracování.
+
+**6. Varianty.** (a) Kdyby A o azyl nikdy nežádal, byl by zahraničnímu orgánu předání možné v rámci readmisní dohody dle odst. 4 (rozsah dle smlouvy EU). (b) Žadatelem-li by byla zpravodajská služba či GIBS, měly by dle odst. 3 věty druhé nepřetržitý dálkový přístup, tedy širší a trvalejší než jednorázové dožádání.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Úřad tvrdí, že „k řízení potřebuje vše". Neutralizace: odst. 1 váže rozšíření na nezbytnost a subsidiaritu (nelze získat jinak); důkazní břemeno nezbytnosti nese žadatel a správce je povinen je posoudit, nikoli mechanicky vyhovět.
+- *Protiargument:* Zahraniční orgán argumentuje mezinárodní spoluprací a readmisní dohodou. Neutralizace: odst. 11 § 158 je kogentní ochranou žadatelů o azyl; readmisní kanál dle odst. 4 jím nelze obejít, jde-li o osobu s azylovou historií (informační non-refoulement).
+- *Slabé místo:* Hranice mezi „nezbytným" a „nadbytečným" rozsahem je neostrá a v praxi se přenáší na uvážení správce; doporučuje se trvat na písemném odůvodnění účelu a vést záznam o výdeji (§ 158 odst. 10).
+
+#### H. Praktický závěr
+
+§ 159 je převodovou normou mezi obsahem ISC a jeho příjemci. Ovládá ji zásada účelové vázanosti a minimalizace: standardem je úzká základní obálka, rozšíření je výjimkou vázanou na nezbytnost. Mezinárodní předávání je rozčleněno podle kanálů (readmise, notifikace mezi státy EU) a tvrdě limitováno ochranou žadatelů o azyl (odst. 11 § 158).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] U žádosti o data vymezit konkrétní zákonný úkol a posoudit, zda postačí základní obálka (odst. 1).
+- [ ] Rozšířený rozsah povolit jen při nezbytnosti a nemožnosti získat údaj jinak; doložit odůvodnění.
+- [ ] Před předáním do ciziny ověřit azylovou historii cizince (§ 158 odst. 11) a právní titul (readmisní/notifikační).
+- [ ] U zpravodajských služeb / GIBS respektovat režim nepřetržitého dálkového přístupu (odst. 3).
+- [ ] Provést a uchovat záznam o poskytnutí údajů (§ 158 odst. 10).
+
+**Typicky rozhodné důkazy / podklady:** žádost s vymezením úkolu a nezbytnosti, podklady o azylové historii cizince, mezinárodní smlouva (readmisní dohoda) opravňující předání, záznamy o výdeji údajů.
 
 ---
 
@@ -551,5 +697,42 @@ Pro biometrické údaje zákon stanoví mimořádně krátké lhůty:
 - Průkaz o povolení k pobytu: 90 dnů po skončení nebo zrušení platnosti průkazu.
 
 Toto nastavení koresponduje s čl. 5 odst. 1 písm. e) GDPR (minimalizace doby uložení) a s tím, že biometrické datové prvky (otisky prstů, obraz obličeje) jsou údaji zvláštní kategorie vyžadujícími přísnou proporcionální ochranu.
+
+#### F. Kazuistika
+
+**1. Modelová situace.** Cizinec B měl na území povolen přechodný pobyt; pobyt skončil v roce 2005 a B vycestoval. V roce 2026 (tj. 21 let po skončení pobytu) zjistí, že jeho údaje jsou stále vedeny v ISC v elektronické podobě a jsou poskytovány orgánům. B namítá, že retenční lhůta uplynula a údaje měly být zlikvidovány. Policie oponuje, že u elektronických údajů kategorie a) činí lhůta 75 let. Současně B zjistí, že jeho biometrické otisky pořízené v roce 2004 k vydání cizineckého pasu jsou rovněž stále vedeny. Účastníci: B (subjekt údajů), policie (správce ISC), ministerstvo (správce biometrie u cizineckých pasů). Důkazy: doklad o skončení pobytu, výpis z ISC s datací záznamů, doklad o dodání pasu ministerstvu v roce 2004.
+
+**2. Právní otázka.** Jaká retenční lhůta dopadá na elektronicky vedené pobytové údaje cizince po skončení pobytu a od kdy běží, a jaká odlišná (krátká) lhůta dopadá na biometrické údaje pořízené k vydání cizineckého pasu?
+
+**3. Použitelné právo.**
+- *Komentované ustanovení:* § 160 — forma a lhůty uchování; odst. 1 (forma; biometrie vždy elektronicky), odst. 2 písm. a) (75 let el. / 15 let listinná od skončení pobytu, smrti či nabytí občanství), odst. 5 (likvidace po uplynutí lhůty / archivace listin), odst. 6 (biometrie — cizinecký pas 90 dnů od dodání pasu ministerstvu).
+- *Související ustanovení téhož zákona:* § 158 odst. 1 a 8 (vedené a poskytované údaje); § 158a odst. 3 (biometrie k cizineckému pasu); § 160 odst. 3 (sdružené údaje — nejdelší lhůta) a odst. 4 (systémy dle § 158 odst. 4 — max. 20 let).
+- *Související předpisy:* zákon č. 499/2004 Sb., o archivnictví a spisové službě (osud listinných záznamů); GDPR čl. 5 odst. 1 písm. e) (omezení doby uložení), čl. 9 (biometrie).
+- *Judikatura:* nosný závěr ESLP (S. a Marper proti Spojenému království) — neomezené či nepřiměřeně dlouhé uchovávání osobních a zejména biometrických údajů je zásahem do práva na soukromí; lhůty musí být přiměřené účelu.
+
+**4. Subsumpce.** Pobytové údaje B v elektronické podobě spadají do kategorie a): lhůta 75 let běží od skončení pobytu (2005), tedy do roku 2080 — v roce 2026 trvá oprávněně. Naproti tomu biometrie k cizineckému pasu (odst. 6) podléhá lhůtě pouhých 90 dnů od dodání pasu ministerstvu; v roce 2026 měla být dávno zlikvidována. Vedení biometrie z roku 2004 je tedy protiprávní, byť vedení pobytových údajů protiprávní není.
+
+**5. Řešení.** Námitka B proti uchování pobytových údajů neobstojí (lhůta 75 let neuplynula). Námitka proti uchování biometrie naopak obstojí — ministerstvo bylo povinno ji zlikvidovat 90 dnů po dodání pasu; B má nárok na výmaz. Procesně: u biometrie podnět správci, doložení data dodání pasu; při nečinnosti dozor ÚOOÚ. Riziko: odlišení správce (policie u ISC vs. ministerstvo u biometrie k pasu) a prokázání rozhodných dat.
+
+**6. Varianty.** (a) Kdyby byly pobytové údaje vedeny jen listinně, lhůta by činila 15 let a v roce 2026 (21 let po skončení pobytu) by již uplynula — listina by se předala do archivu dle odst. 5 a zákona o archivnictví. (b) Kdyby B mezitím nabyl státní občanství ČR, běh 75/15leté lhůty by se počítal ode dne nabytí občanství, nikoli od skončení pobytu.
+
+#### G. Protiargumenty a rizika
+
+- *Protiargument:* Policie tvrdí, že 75letá lhůta dopadá na všechny záznamy o cizinci. Neutralizace: odst. 2 rozlišuje pět kategorií s odlišnými lhůtami a počátky běhu; biometrie má vlastní krátký režim (odst. 6), přihlašovací tiskopis 6 let apod. — paušalizace lhůt je nesprávná.
+- *Protiargument:* Biometrii lze dle správce držet „pro bezpečnostní účely" déle než 90 dnů. Neutralizace: odst. 6 stanoví výslovnou krátkou lhůtu a příkaz „neprodleně zlikvidovat"; delší držení odporuje čl. 5 odst. 1 písm. e) a čl. 9 GDPR i závěrům S. a Marper.
+- *Slabé místo:* Délka 75 let pro elektronická pobytová data je sama o sobě hraniční z hlediska proporcionality; obhajitelná je účelem (naturalizace, výpočet délky pobytu), avšak v individuálním sporu lze namítat test nezbytnosti — argumentaci je vhodné opřít o konkrétní účel dalšího vedení.
+
+#### H. Praktický závěr
+
+§ 160 určuje formu (biometrie výlučně elektronicky) a diferencované retenční lhůty. Praxe musí přesně přiřadit údaj ke správné kategorii odst. 2 a hlídat odlišný, velmi krátký režim biometrie (odst. 6) a samostatnou mez 20 let u operativních systémů (odst. 4). Po uplynutí lhůty se elektronická data likvidují, listinná jdou do archivu (odst. 5).
+
+**Checklist (advokát / soud / správní orgán / adresát normy):**
+- [ ] Zařadit každý údaj do správné retenční kategorie odst. 2 (a–e) a určit počátek běhu lhůty.
+- [ ] Odlišit elektronickou (75 let) a listinnou (15 let) formu u pobytových údajů.
+- [ ] U biometrie aplikovat krátké lhůty odst. 6 (90 dnů) a kontrolovat „neprodlenou" likvidaci.
+- [ ] U sdružených údajů (odst. 3) počítat lhůtu podle nejdelší z částí; u systémů dle § 158 odst. 4 respektovat strop 20 let (odst. 4).
+- [ ] Po uplynutí lhůty ověřit likvidaci (elektronická data) nebo předání do archivu dle zákona č. 499/2004 Sb. (listiny).
+
+**Typicky rozhodné důkazy / podklady:** výpis z ISC s datací jednotlivých záznamů, doklady o skončení pobytu / úmrtí / nabytí občanství (počátek lhůt), doklad o dodání pasu/průkazu ministerstvu (počátek lhůt u biometrie), doklad o likvidaci či archivaci.
 
 ---
