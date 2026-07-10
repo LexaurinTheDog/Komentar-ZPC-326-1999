@@ -39,6 +39,10 @@ Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů — p
 ## Vazby
 [SŘ 500/2004](/home/vojtech/Komentar-SR-500-2004/) (subsidiární procesní rámec), [SŘS 150/2002](/home/vojtech/Komentar-SRS-150-2002/) (soudní přezkum), zákon o azylu 325/1999 Sb. (paralelní úprava mezinárodní ochrany).
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Zásady z místní judikatury
 
 - [ZASADY.md](ZASADY.md) — právní zásady a judikatorní teze extrahované výhradně z místní složky `judikatura/`, bez mazání existujících citací.

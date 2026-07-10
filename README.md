@@ -15,6 +15,10 @@ AI komentář zpracovaný **výhradně z lokálních materiálů** (úplné kons
 ## Judikatura
 Ke komentovaným ustanovením je doplněna judikatura z místních zdrojů (sp. zn., datum, odkaz na plný text a právní věta). Přehled všech citovaných rozhodnutí: [judikatura/README.md](judikatura/README.md). Zákon o pobytu cizinců je převážně předmětem správního soudnictví (Nejvyšší správní soud); kurátorské právní věty s doslovným zněním jsou v místních zdrojích k jednotlivým § dostupné jen omezeně, proto se v souladu se zásadou „raději neuvést nic než nepřiléhavé" cituje pouze tam, kde je výběr spolehlivý.
 
+## Právní modality
+
+- [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) — výklad příkazů, zákazů, dovolení, zmocnění, oprávnění a povinností, domněnek a fikcí použitých v předpisu.
+
 ## Licence
 
 Tento projekt je open source a je licencován pod licencí **Apache License 2.0** — viz soubor [LICENSE](LICENSE).
